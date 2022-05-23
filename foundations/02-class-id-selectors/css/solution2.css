@@ -1,0 +1,24 @@
+.first-class {
+    color: black;
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#first-id {
+    color: blue;
+    font-size: 36px;
+}
+
+.second-class {
+    color: black;
+    background-color: lightpink;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second-id {
+    color: black;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
