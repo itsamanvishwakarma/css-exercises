@@ -1,1 +1,1 @@
-# css_exercises
+# css-exercises
